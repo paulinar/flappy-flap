@@ -674,11 +674,11 @@ RecursivelyIncrementPausedAncestors(CCNode *node, int increment)
 	[self addChild:child z:z name:child.name];
 }
 
--(void) addChild: (CCNode*) child
-{
-	NSAssert( child != nil, @"Argument must be non-nil");
-	[self addChild:child z:child.zOrder name:child.name];
-}
+//-(void) addChild: (CCNode*) child
+//{
+//	NSAssert( child != nil, @"Argument must be non-nil");
+//	[self addChild:child z:child.zOrder name:child.name];
+//}
 
 -(void) removeFromParent
 {
