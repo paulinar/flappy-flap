@@ -8,4 +8,4 @@ A native Flappy Bird game clone for iOS built with:
 * Xcode
 * Objective-C
 
-![image](/gameplay.gif)
+![image](/GamePreview.gif)
