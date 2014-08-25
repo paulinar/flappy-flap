@@ -10,4 +10,4 @@ A native Flappy Bird game clone for iOS built with:
 
 ![image](/GamePreview.gif)
 
-Credit: MakeGamesWithUs iOS game tutorial
+Credit: MakeGamesWithUs tutorial
